@@ -4,6 +4,9 @@ A lightweight, self-hosted alternative to Google Analytics. Add one script
 tag to any website and see pageviews, visitors, top pages, referrers, and
 devices on a live dashboard.
 
+**Live demo:** [pulse-analytics-blue.vercel.app](https://pulse-analytics-blue.vercel.app)
+*(hosted on a free tier — the API may take ~30s to wake up on first load)*
+
 **Stack:** React (Vite) · Node.js / Express · MongoDB
 
 ---
